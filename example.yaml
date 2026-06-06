@@ -1,0 +1,384 @@
+title: 小说转剧本结果
+author: AI辅助生成
+chapters:
+- chapter_id: 1
+  chapter_title: 第1章　大难不死的男孩
+  scenes:
+  - location: 女贞路四号德思礼家
+    time: 日
+    characters:
+    - 弗农·德思礼
+    - 佩妮·德思礼
+    - 达力
+    actions:
+    - 德思礼先生挑出一条领带戴着
+    - 德思礼太太把达力塞到儿童椅里
+    - 达力把麦片往墙上摔
+    - 德思礼先生拿起公文包，在德思礼太太面颊上亲了一下，试图亲达力但没亲成
+    - 一只黄褐色的猫头鹰扑扇着翅膀从窗前飞过
+    dialogue:
+    - character: 弗农·德思礼
+      lines:
+      - 臭小子。
+      emotion: 嘟哝
+  - location: 女贞路街角
+    time: 日
+    characters:
+    - 弗农·德思礼
+    - 花斑猫
+    actions:
+    - 德思礼先生坐进汽车，倒出四号车道
+    - 德思礼先生看到一只花斑猫站在路口看地图
+    - 德思礼先生眨了眨眼，盯着猫看，猫也瞪着他
+    - 德思礼先生从后视镜里看猫，猫在看标牌
+    - 德思礼先生拐过街角继续上路
+    dialogue: []
+  - location: 进城路上
+    time: 日
+    characters:
+    - 弗农·德思礼
+    - 穿斗篷的人
+    actions:
+    - 德思礼先生看到路边有一群穿着奇装异服、披着斗篷的人
+    - 德思礼先生用手指敲击着方向盘
+    - 穿斗篷的人交头接耳
+    dialogue: []
+  - location: 格朗宁公司办公室及面包房附近
+    time: 日
+    characters:
+    - 弗农·德思礼
+    - 穿斗篷的人
+    - 小老头
+    actions:
+    - 德思礼先生先后对五个人大喊大叫，又打了几个重要的电话
+    - 德思礼先生走到面包房买小甜圆面包
+    - 德思礼先生狠狠地瞪了披斗篷的人一眼
+    - 德思礼先生听到披斗篷的人的话，停下脚步，回头朝人群看了一眼
+    - 德思礼先生冲回办公室，厉声吩咐秘书不要打扰他
+    - 德思礼先生抓起话筒，又放下话筒，摸着胡须
+    - 德思礼先生走出办公室大楼，与一个小老头撞了个满怀
+    - 小老头打了个趔趄，搂了搂德思礼先生的腰，走开了
+    - 德思礼先生站在原地一动不动，随后朝汽车跑去，开车回家
+    dialogue:
+    - character: 穿斗篷的人
+      lines:
+      - 波特夫妇，不错，我正是听说……
+      emotion: 窃窃私语
+    - character: 穿斗篷的人
+      lines:
+      - ……没错，他们的儿子，哈利……
+      emotion: 窃窃私语
+    - character: 弗农·德思礼
+      lines:
+      - 对不起。
+      emotion: 嘟哝
+    - character: 小老头
+      lines:
+      - 您不用道歉，尊贵的先生，因为今天没有事会惹我生气！太高兴了，因为『神秘人』总算走了！就连像你这种麻瓜，也应该好好庆贺这大喜大庆的日子！
+      emotion: 尖细刺耳
+  - location: 女贞路四号花园院墙
+    time: 日
+    characters:
+    - 弗农·德思礼
+    - 花斑猫
+    actions:
+    - 德思礼先生驶入四号车道，看到早上见过的花斑猫坐在院墙上
+    - 德思礼先生大喝让猫走开
+    - 猫纹丝不动，狠狠地瞪了他一眼
+    - 德思礼先生进屋
+    dialogue:
+    - character: 弗农·德思礼
+      lines:
+      - 去……去！
+      emotion: 大喝
+  - location: 女贞路四号起居室
+    time: 夜
+    characters:
+    - 弗农·德思礼
+    - 佩妮·德思礼
+    - 新闻播音员
+    - 气象播音员
+    actions:
+    - 德思礼太太向德思礼先生讲述邻居家的母女矛盾
+    - 安顿达力睡下
+    - 德思礼先生坐在扶手椅里
+    - 德思礼太太端着两杯茶来到起居室
+    - 德思礼先生清了清嗓子
+    dialogue:
+    - character: 新闻播音员
+      lines:
+      - 最后，据各地鸟类观察者反映，今天全国猫头鹰表现反常。通常情况下，它们都是在夜间捕食，白天很少露面，可是今天，日出时猫头鹰就四处纷飞。专家们也无法解释猫头鹰为什么改变了它们的睡眠习惯。
+      - 真是太奇妙了。现在我把话筒交给吉姆麦古，问问他天气情况如何。吉姆，今天夜里还会下猫头鹰雨吗？
+      emotion: 调侃
+    - character: 气象播音员
+      lines:
+      - 噢，泰德，这我可不知道，今天不仅是猫头鹰表现反常。全国各地远至肯特郡、约克郡、丹地等地的目击者都纷纷打来电话说，我们原来预报昨天有雨，结果下的不是雨而是流星！也许人们把本该在一星期后举行的庆祝篝火之夜晚会提前举行了，朋友们！不过我向你们保证，今晚一定有雨。
+      emotion: 幽默
+    - character: 弗农·德思礼
+      lines:
+      - 唔……佩妮，亲爱的……最近有你妹妹的消息吗？
+      emotion: 试探
+    - character: 佩妮·德思礼
+      lines:
+      - 没有，怎么了？
+      emotion: 厉声
+    - character: 弗农·德思礼
+      lines:
+      - 今天的新闻有点奇怪，成群的猫头鹰……流星雨……今天城里又有那么多怪模怪样的人……
+      emotion: 咕哝
+- chapter_id: 2
+  chapter_title: 第2章　悄悄消失的玻璃
+  scenes:
+  - location: 哈利的房间（楼梯下的碗柜）
+    time: 日
+    characters:
+    - 佩妮姨妈
+    - 哈利
+    actions:
+    - 佩妮姨妈拍打哈利的房门
+    - 佩妮姨妈走向厨房放上煎锅
+    - 哈利惊醒翻身背对门
+    - 佩妮姨妈来到门外
+    - 哈利从床底找袜子，抓下蜘蛛穿上，穿好衣服走向厨房
+    dialogue:
+    - character: 佩妮姨妈
+      lines:
+      - 起来！起床了！赶快！
+      emotion: 尖叫
+    - character: 佩妮姨妈
+      lines:
+      - 起来！
+      emotion: 尖叫
+    - character: 佩妮姨妈
+      lines:
+      - 你起来了吗？
+      emotion: 追问
+    - character: 哈利
+      lines:
+      - 快了。
+      emotion: 平淡
+    - character: 佩妮姨妈
+      lines:
+      - 快了，那就赶紧，我要你看着熏咸肉。你敢把它煎糊了试试。我要达力生日这一天一切都顺顺当当。
+      emotion: 严厉
+    - character: 佩妮姨妈
+      lines:
+      - 你说什么？
+      emotion: 厉声
+    - character: 哈利
+      lines:
+      - 没什么，没什么……
+      emotion: 敷衍
+  - location: 德思礼家厨房
+    time: 日
+    characters:
+    - 哈利
+    - 弗农姨父
+    - 佩妮姨妈
+    - 达力
+    actions:
+    - 哈利翻熏咸肉
+    - 弗农姨父来到厨房
+    - 哈利煎蛋
+    - 达力和佩妮姨妈来到厨房
+    - 哈利把煎蛋和熏咸肉放到餐桌上
+    - 达力清点礼品
+    - 哈利狼吞虎咽吃熏咸肉
+    - 达力重重地坐下来抓起礼包
+    - 弗农姨父揉达力的头发
+    - 佩妮姨妈跑去接电话又回来
+    - 达力假哭，躲在母亲臂弯里朝哈利撇嘴一笑
+    - 佩妮姨妈把达力搂到怀里
+    dialogue:
+    - character: 弗农姨父
+      lines:
+      - 把你的头发梳一梳！
+      emotion: 咆哮
+    - character: 达力
+      lines:
+      - 三十六，比去年少两件。
+      emotion: 不满
+    - character: 佩妮姨妈
+      lines:
+      - 亲爱的，你还没算上玛姬姑妈送给你的礼物呢。你看，在你妈妈爸爸送给你的大包下边呢。
+      emotion: 安抚
+    - character: 达力
+      lines:
+      - 好吧，那就三十七件。
+      emotion: 生气
+    - character: 佩妮姨妈
+      lines:
+      - 今天我们上街的时候，再去给你买两件礼物。怎么样，宝贝。再买两件礼物，这样好了吧？
+      emotion: 急切
+    - character: 达力
+      lines:
+      - 那我就有三十……三十……
+      emotion: 迟疑
+    - character: 佩妮姨妈
+      lines:
+      - 三十九件，我的心肝宝贝。
+      emotion: 哄劝
+    - character: 达力
+      lines:
+      - 哦，那好吧。
+      emotion: 勉强
+    - character: 佩妮姨妈
+      lines:
+      - 坏消息，弗农，费格太太把腿摔断了，不能来接他了。
+      emotion: 又生气又着急
+    - character: 弗农姨父
+      lines:
+      - 咱们给玛姬挂个电话吧。
+      emotion: 建议
+    - character: 佩妮姨妈
+      lines:
+      - 别犯傻了，弗农，她讨厌这孩子。
+      emotion: 不耐烦
+    - character: 弗农姨父
+      lines:
+      - 她叫什么来着，你的那位朋友……伊芬，怎么样？
+      emotion: 询问
+    - character: 佩妮姨妈
+      lines:
+      - 上马约卡岛度假去了。
+      emotion: 厉声
+    - character: 哈利
+      lines:
+      - 你们可以把我留在家里。
+      emotion: 满怀希望
+    - character: 佩妮姨妈
+      lines:
+      - 好让我们回来看到整个房子都给毁了？
+      emotion: 大吼
+    - character: 哈利
+      lines:
+      - 我不会把房子炸掉的。
+      emotion: 无奈
+    - character: 佩妮姨妈
+      lines:
+      - 我想我们可以带他到动物园去，……然后把他留在车上……
+      emotion: 慢吞吞
+    - character: 弗农姨父
+      lines:
+      - 那是辆新车，不能让他一个人待在车上……
+      emotion: 反对
+    - character: 佩妮姨妈
+      lines:
+      - 我的好心肝宝贝，别哭，妈妈不会让他搅乱你的好日子的！
+      emotion: 心疼
+    - character: 达力
+      lines:
+      - 我……不……想让……他……去……去！他总是把什么都弄坏了！
+      emotion: 大喊大叫
+- chapter_id: 3
+  chapter_title: 第3章　猫头鹰传书
+  scenes:
+  - location: 女贞路（达力家外）
+    time: 日
+    characters:
+    - 哈利
+    - 达力
+    actions:
+    - 哈利走出碗柜
+    - 达力打坏摄像机、摔毁遥控飞机、骑赛车撞倒费格太太
+    - 达力一伙人追打哈利
+    - 哈利四处游逛
+    - 哈利跑掉
+    dialogue:
+    - character: 达力
+      lines:
+      - 石墙中学开学第一天，他们就会把新生的头浸到马桶里。
+      - 要不要上楼去试一试？
+      emotion: 嘲笑
+    - character: 哈利
+      lines:
+      - 不用了，多谢。
+      - 可怜的马桶从来没有泡过像你的头这样叫人倒胃口的脑袋……它可能会吐呢。
+      emotion: 嘲讽
+  - location: 费格太太家
+    time: 日
+    characters:
+    - 佩妮姨妈
+    - 达力
+    - 哈利
+    - 费格太太
+    actions:
+    - 佩妮姨妈带达力去伦敦买校服
+    - 费格太太让哈利看电视
+    - 费格太太给哈利巧克力蛋糕
+    dialogue: []
+  - location: 达力家起居室
+    time: 夜
+    characters:
+    - 达力
+    - 弗农姨父
+    - 佩妮姨妈
+    - 哈利
+    actions:
+    - 达力在起居室走来走去展示新校服
+    - 佩妮姨妈哭
+    - 哈利强忍住不笑
+    dialogue:
+    - character: 弗农姨父
+      lines:
+      - 这是他平生感到最自豪的一刻。
+      emotion: 自豪
+    - character: 佩妮姨妈
+      lines:
+      - 她的宝贝疙瘩已经长大了，长得这么帅，简直让她不能相信。
+      emotion: 激动
+  - location: 达力家厨房
+    time: 日
+    characters:
+    - 哈利
+    - 佩妮姨妈
+    - 弗农姨父
+    - 达力
+    actions:
+    - 哈利看铁盆
+    - 佩妮姨妈抿紧嘴唇
+    - 哈利朝盆里扫了一眼
+    - 哈利坐下来吃早饭
+    - 达力和弗农姨父进来，皱起鼻子
+    - 弗农姨父打开报纸
+    - 达力把手杖放到桌上
+    - 哈利躲闪手杖，去捡信
+    - 哈利捡起信，盯着看
+    - 哈利用颤抖的手翻转信封
+    dialogue:
+    - character: 哈利
+      lines:
+      - 这是什么？
+      emotion: 疑惑
+    - character: 佩妮姨妈
+      lines:
+      - 你的新校服呀。
+      emotion: 平淡
+    - character: 哈利
+      lines:
+      - 哦，我不知道还得泡得这么湿。
+      emotion: 无奈
+    - character: 佩妮姨妈
+      lines:
+      - 别冒傻气，我把达力的旧衣服染好给你用。等我染好以后，穿起来就会跟别人的一模一样。
+      emotion: 斥责
+    - character: 弗农姨父
+      lines:
+      - 去拿信，达力。
+      emotion: 命令
+    - character: 达力
+      lines:
+      - 叫哈利去捡。
+      emotion: 推脱
+    - character: 弗农姨父
+      lines:
+      - 哈利去捡。
+      emotion: 命令
+    - character: 达力
+      lines:
+      - 达力去捡。
+      emotion: 抗拒
+    - character: 弗农姨父
+      lines:
+      - 用你的斯梅廷手杖赶他去捡。
+      emotion: 命令
