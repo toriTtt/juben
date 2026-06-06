@@ -28,10 +28,6 @@ cd juben
 
 ### 2. 创建虚拟环境
 ```bash
-# Clone the repository and enter the directory
-git clone 
-cd juben
-
 # Create and activate a Conda environment
 conda create -n juben python=3.9
 conda activate juben
