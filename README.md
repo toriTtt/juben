@@ -18,7 +18,7 @@
 - 智谱 GLM-5.1 API (大模型)
 - PyYAML (YAML 处理)
 
-## 环境部署
+## 💫 环境部署
 
 ### 1. 克隆或下载项目
 ```bash
@@ -112,7 +112,7 @@ chapters:
       emotion: null
 ...
 ```
-实际运行效果可查看项目中的 `example_output.yaml`。
+实际运行效果可查看项目中的 `example.yaml`。
 
 ## ⚠️ 注意事项
 
