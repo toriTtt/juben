@@ -22,7 +22,7 @@
 
 ### 1. 克隆或下载项目
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/toriTtt/juben.git>
 cd juben
 ```
 
@@ -42,13 +42,6 @@ conda env update -f environment.yaml
 
 ```bash
 pip install -r requirements.txt
-```
-
-`requirements.txt` 内容：
-```
-gradio
-zhipuai
-pyyaml
 ```
 
 ### 4. 配置 API Key
