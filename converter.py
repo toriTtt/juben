@@ -5,8 +5,8 @@ import time
 from zhipuai import ZhipuAI
 
 # ========== 配置 ==========
-API_KEY = "ae8a2177322a4114b8aa8fa438ddceb9.LhKZe95LyyzIZJJ4"          # 请替换
-MODEL_NAME = "glm-5.1"              # 或 glm-5.1-flash
+API_KEY = "your-API"          # 请替换
+MODEL_NAME = "glm-5.1"              
 CHUNK_SIZE = 4000                   # 每块最大字符数
 # =========================
 
